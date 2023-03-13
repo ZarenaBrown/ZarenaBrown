@@ -1,4 +1,12 @@
-### Hi there 👋
+• 👋 Hi, I'm Zarena
+
+• ⚡ Fun fact: I am a 19-time American Conference Champion in swimming
+
+• 🌱 I’m currently learning every day and always looking for more to learn
+
+• 👯 I’m looking to collaborate with other individuals to learn and grow
+
+• 📫 How to reach me: zarenabrown@gmail.com
 
 <!--
 **ZarenaBrown/ZarenaBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
